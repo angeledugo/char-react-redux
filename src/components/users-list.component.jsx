@@ -9,7 +9,7 @@ import avatar from '../static/incognito.png'
  */
 const UsersList = ({ activeUser, users }) => (
   <div className="users-list-wrapper">
-    <h3>Active users</h3>
+    <h3>Usuario activos</h3>
     <ul className="users-list">
       {users.map(user => (
         <li

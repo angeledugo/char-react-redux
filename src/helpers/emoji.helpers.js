@@ -1,7 +1,7 @@
 /**
  *  Emoji Helper
  */
-// pun intended :D
+// Juego de palabras :D
 export const emojizz = text => (
   text
     .replace(/\:\)/, '\u{1F642}')

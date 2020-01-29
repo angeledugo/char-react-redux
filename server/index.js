@@ -51,7 +51,7 @@ server.on('connection', ws => {
 
   users[connectedUserId] = {
     id: connectedUserId,
-    name: `User ${connectedUserId}`,
+    name: `Usuario ${connectedUserId}`,
   }
 
   broadcastToSelf({
