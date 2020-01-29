@@ -1,2 +1,2 @@
 # React Redux Chat App
-> React Redux Chat 
+> React Redux Chat Ing. Angel Gonzalez
